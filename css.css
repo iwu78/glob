@@ -1,0 +1,66 @@
+.header {
+  font-size: 24px;
+  text-align: center;
+  width: fit-content;
+  margin: 0 auto;
+  background-color: #2A2A2A;
+  background-image: linear-gradient(145deg, #303030 0%, #242424 100%);
+  color: #D2D8FC;
+  border-radius: 24px;
+  padding: 24px;
+  margin-left: 40vh;
+  box-shadow:
+        inset 1px 1px 1px rgba(82, 82, 82, 0.18),
+        inset -1px -1px 1px rgba(20, 20, 20, 0.55),
+        12px 12px 36px rgba(20, 20, 20, 0.73),
+        -12px -12px 36px rgba(73, 73, 73, 0.47);
+}
+
+.title {
+  margin-top: 20vh;
+}
+
+.posts {
+  font-size: 16px;
+  text-align: center;
+  width: fit-content;
+  margin: 0 auto;
+  background-color: #2A2A2A;
+  background-image: linear-gradient(145deg, #303030 0%, #242424 100%);
+  color: #D2D8FC;
+  border-radius: 24px;
+  padding: 16px;
+  margin-left: 125vh;
+  box-shadow:
+        inset 1px 1px 1px rgba(82, 82, 82, 0.18),
+        inset -1px -1px 1px rgba(20, 20, 20, 0.55),
+        12px 12px 36px rgba(20, 20, 20, 0.73),
+        -12px -12px 36px rgba(73, 73, 73, 0.47);
+}
+
+.main {
+  font-size: 12px;
+  text-align: left;
+  width: fit-content;
+  margin: 0 auto;
+  background-color: #2A2A2A;
+  color: #D2D8FC;
+  border-radius: 24px;
+  padding: 20px;
+  margin-top: 2vh;
+  margin-left: 40vh;
+  box-shadow: inset 1px 1px 1px rgba(16, 16, 16, 0.55), inset -1px -1px 1px rgba(82, 82, 82, 0.18), inset 5px 5px 28px rgba(16, 16, 16, 0.87), inset -5px -5px 28px rgba(78, 78, 78, 0.50);
+}
+
+footer {
+  position: fixed;
+  color: #D2D8FC;
+  font-size: 10px;
+  bottom: 30px;
+  left: 30px;
+}
+
+body {
+    font-family: "Cascadia Code", monospace;
+    background-color: #2A2A2A;
+}
